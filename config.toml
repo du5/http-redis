@@ -1,0 +1,5 @@
+[redis]
+    host = "rdbhost"
+    port = rdbport
+    pass = "rdbpass"
+    name = rdbname
